@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://quoth.win
+
+# Sitemaps
+Sitemap: https://quoth.win/sitemap.xml

@@ -1,0 +1,2 @@
+export NOTION_PAGE_ID=5030e35aacb449ab8a64bfead68c08fe
+export IMAGE=nobelium:latest

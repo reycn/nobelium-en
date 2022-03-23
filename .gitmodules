@@ -1,0 +1,3 @@
+[submodule "nobelium"]
+	path = nobelium
+	url = https://github.com/reycn/nobelium.git
