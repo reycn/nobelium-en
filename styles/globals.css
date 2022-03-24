@@ -20,7 +20,7 @@
 }
 
 @font-face {
-  font-family: 'Source Serif';
+  font-family: Charter, Georgia, "Source Serif";
   font-weight: 100 900;
   font-display: swap;
   font-style: normal;
@@ -29,7 +29,7 @@
 }
 
 @font-face {
-  font-family: 'Source Serif';
+  font-family: Charter, Georgia, "Source Serif";
   font-weight: 100 900;
   font-display: swap;
   font-style: italic;

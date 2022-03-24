@@ -3,7 +3,7 @@ User-agent: *
 Allow: /
 
 # Host
-Host: https://quoth.win
+Host: https://en.quoth.win
 
 # Sitemaps
-Sitemap: https://quoth.win/sitemap.xml
+Sitemap: https://en.quoth.win/sitemap.xml
