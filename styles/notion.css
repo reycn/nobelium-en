@@ -3,7 +3,8 @@
 .notion {
 	@apply text-gray-600 dark:text-gray-300;
 	overflow-wrap: break-word;
-	font-family: "Source Serif", ui-serif, Georgia, Cambria, Times New Roman, Times, serif, "Noto Serif CJK SC",
+	font-family: Charter, Georgia, "Source Serif", ui-serif, Georgia, Cambria, Times New Roman, Times, serif,
+		"Noto Serif CJK SC", '宋体', 'Microsoft YaHei', 'STKaiti', 'Kai', 'Kaiti SC', 'KaiTi', 'KaiTi_GB2312', '楷体',
 		"Noto Serif SC";
 }
 .notion,
