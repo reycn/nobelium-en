@@ -1,11 +1,11 @@
 /* eslint-disable indent */
 /* eslint-disable no-tabs */
-import BLOG from '@/blog.config'
+import BLOG from '@/blog.config';
 // import Vercel from '@/components/Vercel'
 const Footer = ({ fullWidth }) => {
-	const d = new Date()
-	const y = d.getFullYear()
-	const from = +BLOG.since
+	const d = new Date();
+	const y = d.getFullYear();
+	const from = +BLOG.since;
 	return (
 		<div
 			className={`mt-6 flex-shrink-0 m-auto w-full text-gray-500 dark:text-gray-400 transition-all ${!fullWidth
@@ -16,7 +16,8 @@ const Footer = ({ fullWidth }) => {
 			<div className="my-4 text-sm leading-6">
 				<div className="flex align-baseline justify-between flex-wrap">
 					<p>
-						{BLOG.author} © {from === y || !from ? y : `${from} - ${y}`}
+						<a href="https://blog.quoth.win/feed">RSS</a> | {BLOG.author} ©{' '}
+						{from === y || !from ? y : `${from} - ${y}`}
 					</p>{' '}
 					<a href="https://vercel.com?utm_source=Craigary&utm_campaign=oss">
 						Powered by
@@ -37,7 +38,7 @@ const Footer = ({ fullWidth }) => {
 				</div>
 			</div>
 		</div>
-	)
-}
+	);
+};
 
-export default Footer
+export default Footer;
