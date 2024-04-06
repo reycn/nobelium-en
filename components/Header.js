@@ -9,10 +9,10 @@ const NavBar = () => {
   const BLOG = useConfig()
   const locale = useLocale()
   const links = [
-    { id: 0, name: locale.NAV.INDEX, to: BLOG.path || '/', show: true },
+    { id: 0, name: "Home", to: BLOG.path || '/', show: true },
     { id: 1, name: locale.NAV.SEARCH, to: '/search', show: true },
     { id: 2, name: locale.NAV.RSS, to: '/feed', show: true, external: true },
-    { id: 3, name: locale.NAV.ABOUT, to: '/about', show: BLOG.showAbout },
+    { id: 3, name: "CV", to: '/cv', show: BLOG.showAbout },
     { id: 4, name: "中文", to: 'https://blog.rongxin.me', show: true }
   ]
   return (
@@ -25,7 +25,9 @@ const NavBar = () => {
                 key={link.id}
                 className="block ml-4 text-black dark:text-gray-50 nav"
               >
-                <Link href={link.to} target={link.external ? '_blank' : null}>{link.name}</Link>
+                <Link href={link.to}>
+                  {link.name}
+                </Link>
               </li>
             )
         )}

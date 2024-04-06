@@ -5,6 +5,7 @@ const BLOG = {
     link: 'https://rongxin.me',
     description: 'Make sense of the world',
     lang: 'en-US',
+  timezone: 'Asia/Shanghai', // Your Notion posts' date will be interpreted as this timezone. See https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for all options.
     appearance: 'auto', // ['light', 'dark', 'auto'],
     font: 'serif', // ['sans-serif', 'serif']
     lightBackground: '#ffffff', // use hex value, don't forget '#' e.g #fffefc
@@ -17,7 +18,7 @@ const BLOG = {
     showArchive: true,
     autoCollapsedNavBar: true, // the automatically collapsed navigation bar
     ogImageGenerateURL: 'https://og-image-craigary.vercel.app', // The link to generate OG image, don't end with a slash
-    socialLink: 'https://twitter.com/reynardoffline',
+    socialLink: 'https://twitter.com/RongxinOuyang',
     seo: {
         keywords: ['Blog', 'Website', 'Notion'],
         googleSiteVerification: '', // Remove the value or replace it with your own google site verification code
@@ -52,10 +53,10 @@ const BLOG = {
         cusdisConfig: {
             appId: '6a580342-7df6-4053-ac80-9c6b8c62fccc', // data-app-id
             host: 'https://cusdis.com', // data-host, change this if you're using self-hosted version
-            scriptSrc: 'https://cusdis.com/js/cusdis.es.js', // change this if you're using self-hosted version
-        },
+      scriptSrc: 'https://cusdis.com/js/cusdis.es.js' // change this if you're using self-hosted version
+    }
     },
-    isProd: process.env.VERCEL_ENV === 'production', // distinguish between development and production environment (ref: https://vercel.com/docs/environment-variables#system-environment-variables)
-};
+  isProd: process.env.VERCEL_ENV === 'production' // distinguish between development and production environment (ref: https://vercel.com/docs/environment-variables#system-environment-variables)
+}
 // export default BLOG
-module.exports = BLOG;
+module.exports = BLOG

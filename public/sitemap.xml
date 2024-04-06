@@ -1,9 +1,71 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url><loc>https://en.quoth.win</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2022-03-24T04:51:43.702Z</lastmod></url>
-<url><loc>https://en.quoth.win/feed</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2022-03-24T04:51:43.702Z</lastmod></url>
-<url><loc>https://en.quoth.win/search</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2022-03-24T04:51:43.702Z</lastmod></url>
-<url><loc>https://en.quoth.win/tag/Data Analysis</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2022-03-24T04:51:43.702Z</lastmod></url>
-<url><loc>https://en.quoth.win/test</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2022-03-24T04:51:43.702Z</lastmod></url>
-<url><loc>https://en.quoth.win/about</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2022-03-24T04:51:43.702Z</lastmod></url>
+<url><loc>https://rongxin.me</loc><lastmod>2024-04-06T17:12:30.416Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://rongxin.me/feed</loc><lastmod>2024-04-06T17:12:30.417Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://rongxin.me/search</loc><lastmod>2024-04-06T17:12:30.417Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://rongxin.me/tag/Academic</loc><lastmod>2024-04-06T17:12:30.417Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://rongxin.me/tag/Reading</loc><lastmod>2024-04-06T17:12:30.417Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://rongxin.me/tag/Communication</loc><lastmod>2024-04-06T17:12:30.417Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://rongxin.me/tag/Sociology</loc><lastmod>2024-04-06T17:12:30.417Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://rongxin.me/tag/Cultural Study</loc><lastmod>2024-04-06T17:12:30.417Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://rongxin.me/tag/Theory</loc><lastmod>2024-04-06T17:12:30.417Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://rongxin.me/tag/Social Media</loc><lastmod>2024-04-06T17:12:30.417Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://rongxin.me/tag/Engineering</loc><lastmod>2024-04-06T17:12:30.417Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://rongxin.me/tag/AI</loc><lastmod>2024-04-06T17:12:30.417Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://rongxin.me/tag/Data Analysis</loc><lastmod>2024-04-06T17:12:30.417Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://rongxin.me/tag/Python</loc><lastmod>2024-04-06T17:12:30.417Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://rongxin.me/tag/Productivity</loc><lastmod>2024-04-06T17:12:30.417Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://rongxin.me/tag/Paper Reading</loc><lastmod>2024-04-06T17:12:30.417Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://rongxin.me/tag/English</loc><lastmod>2024-04-06T17:12:30.417Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://rongxin.me/tag/Study</loc><lastmod>2024-04-06T17:12:30.417Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://rongxin.me/tag/TOEFL</loc><lastmod>2024-04-06T17:12:30.417Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://rongxin.me/tag/Math</loc><lastmod>2024-04-06T17:12:30.417Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://rongxin.me/tag/Notion</loc><lastmod>2024-04-06T17:12:30.417Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://rongxin.me/tag/Crack</loc><lastmod>2024-04-06T17:12:30.417Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://rongxin.me/tag/Platform</loc><lastmod>2024-04-06T17:12:30.417Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://rongxin.me/tag/Capitalism</loc><lastmod>2024-04-06T17:12:30.417Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://rongxin.me/tag/ML</loc><lastmod>2024-04-06T17:12:30.417Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://rongxin.me/tag/Methodology</loc><lastmod>2024-04-06T17:12:30.417Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://rongxin.me/tag/Seminar</loc><lastmod>2024-04-06T17:12:30.417Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://rongxin.me/tag/Finance</loc><lastmod>2024-04-06T17:12:30.417Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://rongxin.me/tag/Sklearn</loc><lastmod>2024-04-06T17:12:30.417Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://rongxin.me/tag/Pandas</loc><lastmod>2024-04-06T17:12:30.417Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://rongxin.me/tag/Thoughts</loc><lastmod>2024-04-06T17:12:30.417Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://rongxin.me/lead-discuss-media-study-theory</loc><lastmod>2024-04-06T17:12:30.417Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://rongxin.me/the-not-false-revolution-of-chatgpt</loc><lastmod>2024-04-06T17:12:30.417Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://rongxin.me/install-latex-ocr-on-apple-silicon-m1</loc><lastmod>2024-04-06T17:12:30.417Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://rongxin.me/substitute-pandas-with-polars-a-dataframe-module-rewritten-in-rust</loc><lastmod>2024-04-06T17:12:30.417Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://rongxin.me/install-igraph-cario-python-apple-silicon-fix-not-found</loc><lastmod>2024-04-06T17:12:30.417Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://rongxin.me/what-is-comupter-mediated-communication</loc><lastmod>2024-04-06T17:12:30.417Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://rongxin.me/what-is-clarity</loc><lastmod>2024-04-06T17:12:30.417Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://rongxin.me/gre-aw-og-the-mason-river</loc><lastmod>2024-04-06T17:12:30.417Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://rongxin.me/linear-algebra</loc><lastmod>2024-04-06T17:12:30.417Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://rongxin.me/notion-help-bot</loc><lastmod>2024-04-06T17:12:30.417Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://rongxin.me/nobelium-blog</loc><lastmod>2024-04-06T17:12:30.417Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://rongxin.me/your-order-their-labor</loc><lastmod>2024-04-06T17:12:30.417Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://rongxin.me/china-drug-trials-crawler</loc><lastmod>2024-04-06T17:12:30.417Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://rongxin.me/algorithm-9893</loc><lastmod>2024-04-06T17:12:30.417Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://rongxin.me/notion-table-generator</loc><lastmod>2024-04-06T17:12:30.417Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://rongxin.me/social-network-analysis-python</loc><lastmod>2024-04-06T17:12:30.417Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://rongxin.me/connection-strategies-facebook-social-capital</loc><lastmod>2024-04-06T17:12:30.417Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://rongxin.me/weibo-prediction</loc><lastmod>2024-04-06T17:12:30.417Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://rongxin.me/deepl-api-free</loc><lastmod>2024-04-06T17:12:30.417Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://rongxin.me/zotero-notion</loc><lastmod>2024-04-06T17:12:30.417Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://rongxin.me/ta-qa-ada</loc><lastmod>2024-04-06T17:12:30.417Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://rongxin.me/ccr-seminar-jonathan-zhu</loc><lastmod>2024-04-06T17:12:30.417Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://rongxin.me/dependence-precarity-platform-economy</loc><lastmod>2024-04-06T17:12:30.417Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://rongxin.me/human-understandable-insights</loc><lastmod>2024-04-06T17:12:30.417Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://rongxin.me/cancel-or-not</loc><lastmod>2024-04-06T17:12:30.417Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://rongxin.me/solution-valueerror-sklearn-pca</loc><lastmod>2024-04-06T17:12:30.417Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://rongxin.me/index-missing-label-deprecated-pandas</loc><lastmod>2024-04-06T17:12:30.417Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://rongxin.me/ellison-review-social-capital-2</loc><lastmod>2024-04-06T17:12:30.417Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://rongxin.me/ellison-review-social-capital</loc><lastmod>2024-04-06T17:12:30.417Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://rongxin.me/chrome-beautify-overlay-scrollbars</loc><lastmod>2024-04-06T17:12:30.417Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://rongxin.me/about</loc><lastmod>2024-04-06T17:12:30.417Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://rongxin.me/a-chance-succeed</loc><lastmod>2024-04-06T17:12:30.417Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://rongxin.me/applied-data-analytics-in-python</loc><lastmod>2024-04-06T17:12:30.417Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://rongxin.me/page/2</loc><lastmod>2024-04-06T17:12:30.417Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://rongxin.me/page/3</loc><lastmod>2024-04-06T17:12:30.417Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://rongxin.me/page/4</loc><lastmod>2024-04-06T17:12:30.417Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://rongxin.me/page/5</loc><lastmod>2024-04-06T17:12:30.417Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
 </urlset>
