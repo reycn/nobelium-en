@@ -12,6 +12,9 @@
     "email": "i@craigary.net",
     "url": "http://craigary.net"
   },
+  "engines": {
+    "node": ">=18.0.0"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
