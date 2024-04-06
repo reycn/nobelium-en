@@ -2,7 +2,7 @@ const BLOG = {
     title: "Reynard's Blog",
     author: 'Reynard',
     email: 'rey@pku.edu.cn',
-    link: 'https://en.quoth.win',
+    link: 'https://rongxin.me',
     description: 'Make sense of the world',
     lang: 'en-US',
     appearance: 'auto', // ['light', 'dark', 'auto'],
