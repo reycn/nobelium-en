@@ -45,10 +45,10 @@ const BLOG = {
             admin: [],
             clientID: '',
             clientSecret: '',
-            distractionFreeMode: false,
+      distractionFreeMode: false
         },
         utterancesConfig: {
-            repo: '',
+      repo: ''
         },
         cusdisConfig: {
             appId: '6a580342-7df6-4053-ac80-9c6b8c62fccc', // data-app-id
