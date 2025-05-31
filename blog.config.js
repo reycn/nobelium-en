@@ -3,7 +3,7 @@ const BLOG = {
     author: 'Rongxin',
     email: 'rongxin@u.nus.edu',
     link: 'https://rongxin.me',
-    description: 'PhD candidate in Computational Communication',
+    description: 'PhD candidate in Communication',
     lang: 'en-US',
   timezone: 'Asia/Shanghai', // Your Notion posts' date will be interpreted as this timezone. See https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for all options.
     appearance: 'auto', // ['light', 'dark', 'auto'],
