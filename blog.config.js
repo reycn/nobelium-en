@@ -1,9 +1,9 @@
 const BLOG = {
-    title: "Rongxin's Blog",
+    title: "Rongxin",
     author: 'Rongxin',
     email: 'rongxin@u.nus.edu',
     link: 'https://rongxin.me',
-    description: 'PhD student in Communication',
+    description: 'PhD candidate in Computational Communication',
     lang: 'en-US',
   timezone: 'Asia/Shanghai', // Your Notion posts' date will be interpreted as this timezone. See https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for all options.
     appearance: 'auto', // ['light', 'dark', 'auto'],
