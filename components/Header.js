@@ -10,10 +10,11 @@ const NavBar = () => {
   const locale = useLocale()
   const links = [
     { id: 0, name: "Home", to: BLOG.path || '/', show: true },
+    { id: 4, name: "Research", to: 'https://rongxin.me/research', show: true },
     { id: 1, name: locale.NAV.SEARCH, to: '/search', show: true },
     { id: 2, name: locale.NAV.RSS, to: '/feed', show: true, external: true },
     { id: 3, name: "CV", to: 'https://rongxin.me/cv', show: true },
-    { id: 4, name: "中文", to: 'https://blog.rongxin.me', show: true }
+    // { id: 4, name: "中文", to: 'https://blog.rongxin.me', show: true }
   ]
   return (
     <div className="flex-shrink-0">
